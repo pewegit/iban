@@ -9,7 +9,7 @@ using System.Windows;
 namespace iban
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interaction logic for App.xaml modified
     /// </summary>
     public partial class App : Application
     {
